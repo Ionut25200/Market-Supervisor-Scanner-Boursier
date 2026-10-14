@@ -26,7 +26,7 @@ En un clic sur **`LANCER LE SCAN`**, le moteur interroge simultanément 4 pilier
 3. **Or (`GC=F`)** — Valeur refuge et matières premières
 4. **Solana (`SOL-USD`)** — Marché crypto
 
-![Aperçu du Terminal Market Supervisor](terminal.png)
+![Aperçu du Terminal Market Supervisor](superviseur_report.png)
 
 ---
 
